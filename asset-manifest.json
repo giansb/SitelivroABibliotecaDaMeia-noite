@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7ad78aae.css",
+    "main.js": "/static/js/main.75dca669.js",
+    "static/js/787.2f201951.chunk.js": "/static/js/787.2f201951.chunk.js",
+    "static/media/new-fundo.png": "/static/media/new-fundo.d04796b29666b792d097.png",
+    "static/media/capa-black.jpg": "/static/media/capa-black.18d2936ebc9044f5bee5.jpg",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.7ad78aae.css.map": "/static/css/main.7ad78aae.css.map",
+    "main.75dca669.js.map": "/static/js/main.75dca669.js.map",
+    "787.2f201951.chunk.js.map": "/static/js/787.2f201951.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7ad78aae.css",
+    "static/js/main.75dca669.js"
+  ]
+}
