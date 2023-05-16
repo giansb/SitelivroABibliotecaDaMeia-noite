@@ -1,0 +1,18 @@
+*{
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+  color: white;}
+
+
+  .limita-secao{
+    margin: 0 auto;
+    max-width: 1024px;
+    text-align: center;
+  }
+
+  .secao{
+    background-color: black;
+  }
+
+

@@ -1,0 +1,23 @@
+.secao-citacao{
+    box-shadow: 0 -20px 40px 30px inset  rgb(0, 0, 0);
+    height:auto;
+    width: auto;
+    background-image: url(../../../public/assets/new-fundo.png);
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position: center;
+    margin: 10% 4%;
+    
+    
+}
+
+.citacao {
+    font-style: italic;
+    text-align: center;
+    width: 45%;
+    font-size: 3vw;
+    padding: 1% 4%;
+    font-weight: bold;
+
+}
+

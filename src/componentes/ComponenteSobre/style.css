@@ -1,0 +1,23 @@
+.secao-sobre{
+    background-color: black;
+}
+
+.conteudo {
+    font-size: 20px;
+    line-height: 40px;
+    text-align: justify;
+    margin: 0 40px;
+}
+
+.til {
+    font-family:'Times New Roman', Times, serif;
+    font-weight: bold;
+    text-decoration: underline;
+    padding: 5vw 0; 
+}
+
+.verde{
+    color:#7CFC00;
+    text-decoration: none;
+}
+

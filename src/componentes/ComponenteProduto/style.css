@@ -1,0 +1,36 @@
+.secao-produto{
+    margin: 40px 0;
+}
+
+.secao-produto img{
+    width: calc(30vh + 10%);
+}
+
+.secao-produto h2{
+    font-size: calc(2vw + 40%);
+    margin: 40px;
+}
+
+.secao-produto p {
+    margin: 20px 0;
+}
+
+.botao {
+    display: inline-block;
+    margin: 1% 2%;
+    
+    padding: 10px 20px;
+    border-radius: 15px;
+    text-decoration: none;
+    font-weight: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.amazon {
+    background-color: white;
+    color: black;
+}
+
+.desc{
+    padding: 0 20px;    
+}
